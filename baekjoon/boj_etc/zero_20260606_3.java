@@ -12,6 +12,6 @@ public class zero_20260606_3 {
      if(a>answer) answer = a;
    }
 
-   System.out.println(a);
+   System.out.println(answer);
     }
 }
